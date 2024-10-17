@@ -27,6 +27,18 @@
             "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/fabric-loader-0.16.7.jar"
           }
         },
+        "subModules": [
+            {
+              "id": "1.20.4-fabric-0.16.7",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 4252,
+                "MD5": "2f557365d8f0e43caad2eeb6114bf2ae",
+                "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.json"
+              }
+            }
+          ]
         {
           "id": "caramelChat-mc1.20.1-fabric-1.1.1.jar",
           "name": "caramelChat-mc1.20.1-fabric-1.1.1.jar",
