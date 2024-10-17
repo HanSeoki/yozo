@@ -158,6 +158,16 @@
             "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/voicechat-fabric-1.20.1-2.5.8.jar",
             "MD5": "a25bd4206ae42e8ce0011d0818000b41"
           }
+        },
+        {
+          "id": "generated:iris:1.7.5+mc1.20.1@jar",
+          "name": "IRIS",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2730664,
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/iris-1.7.5+mc1.20.1.jar",
+            "MD5": "902528a82a843300ecf9027af9f8fb8c"
+          }
         }
       ]
     }
