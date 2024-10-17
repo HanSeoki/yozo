@@ -18,23 +18,23 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.15.6",
+          "id": "net.fabricmc:fabric-loader:0.16.7",
           "name": "Fabric (fabric-loader)",
           "type": "Fabric",
           "artifact": {
-            "size": 1321135,
-            "MD5": "744dbc7c568d7e782e6616637a14f6b3",
-            "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/fabricmc/fabric-loader/0.15.6/fabric-loader-0.15.6.jar"
+            "size": 1387452,
+            "MD5": "67fdac9560fdae4c5e89fa62394f5802",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/fabric-loader-0.16.7.jar"
           },
           "subModules": [
             {
-              "id": "1.20.4-fabric-0.15.6",
+              "id": "1.20.1-fabric-0.16.7",
               "name": "Fabric (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 2847,
-                "MD5": "6052ebb6acbba734c83fd3a09e67d31e",
-                "url": "https://helios-files.geekcorner.eu.org/repo/versions/1.20.4-fabric-0.15.6/1.20.4-fabric-0.15.6.json"
+                "size": 4252,
+                "MD5": "2f557365d8f0e43caad2eeb6114bf2ae",
+                "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.json"
               }
             },
             {
@@ -95,16 +95,6 @@
                 "size": 1451874,
                 "MD5": "4cc3ff559cafdc70d9ed80e869d447f0",
                 "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:intermediary:1.20.4",
-              "name": "Fabric (intermediary)",
-              "type": "Library",
-              "artifact": {
-                "size": 608319,
-                "MD5": "3a1cade1634c518db6147c9771686ea9",
-                "url": "https://helios-files.geekcorner.eu.org/repo/lib/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
               }
             }
           ]
