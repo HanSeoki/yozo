@@ -67,7 +67,7 @@
           "type": "File",
           "artifact": {
             "size": 4252,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/fabric-loader-0.16.7.json",
+            "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.json",
             "MD5": "2f557365d8f0e43caad2eeb6114bf2ae",
             "path": "mods/fabric-loader-0.16.7.json"
           }
