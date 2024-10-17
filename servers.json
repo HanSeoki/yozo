@@ -150,16 +150,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:optifabric:1.14.3@jar",
-          "name": "OptiFabric",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 612786,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/optifabric-1.14.3.jar",
-            "MD5": "c5b73e880ae6c7321a0085167ed38e1d"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.8@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
@@ -167,6 +157,16 @@
             "size": 8059500,
             "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/voicechat-fabric-1.20.1-2.5.8.jar",
             "MD5": "a25bd4206ae42e8ce0011d0818000b41"
+          }
+        },
+        {
+          "id": "generated.library:fabric:api-0.92.2+1.20.1@jar",
+          "name": "fabric",
+          "type": "Library",
+          "artifact": {
+            "size": 2107289,
+            "url": "http://localhost:8080/servers/test-1.20.1/libraries/fabric-api-0.92.2+1.20.1.jar",
+            "MD5": "92c58961866741106aae126558c9d4a7"
           }
         }
       ]
