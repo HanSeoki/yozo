@@ -150,6 +150,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:optifabric:1.14.3@jar",
+          "name": "OptiFabric",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 612786,
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/optifabric-1.14.3.jar",
+            "MD5": "c5b73e880ae6c7321a0085167ed38e1d"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.8@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
