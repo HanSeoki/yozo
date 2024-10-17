@@ -148,17 +148,7 @@
             "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/journeymap-1.20.1-5.10.2-fabric.jar",
             "MD5": "8c157f25896ddf85396d7963064c4a2c"
           }
-        },
-        {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.8@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8059500,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/voicechat-fabric-1.20.1-2.5.8.jar",
-            "MD5": "a25bd4206ae42e8ce0011d0818000b41"
-          }
-        },
+        }
         {
           "id": "generated.library:fabric:api-0.92.2+1.20.1@jar",
           "name": "fabric",
