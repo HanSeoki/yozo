@@ -98,69 +98,6 @@
               }
             }
           ]
-        },
-        {
-          "id": "generated.fabricmod:iris:1.6.15@jar",
-          "name": "Iris",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2416339,
-            "url": "https://helios-files.geekcorner.eu.org/servers/Fabric-Demo-1.20.4/fabricmods/required/iris-mc1.20.4-1.6.15.jar",
-            "MD5": "a2f7578c1652222e8c703831b604150e"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods:lithium:0.12.1@jar",
-          "name": "Lithium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 716022,
-            "url": "https://helios-files.geekcorner.eu.org/servers/Fabric-Demo-1.20.4/fabricmods/required/lithium-fabric-mc1.20.4-0.12.1.jar",
-            "MD5": "83da6729d5402dc42eca740a96f97346"
-          }
-        },
-        {
-          "id": "com.terraformersmc:modmenu:9.0.0@jar",
-          "name": "Mod Menu",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 724484,
-            "url": "https://helios-files.geekcorner.eu.org/servers/Fabric-Demo-1.20.4/fabricmods/optionalon/modmenu-9.0.0.jar",
-            "MD5": "7eb06d459405ed6c87b16f4c5be4493d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.4@jar",
-          "name": "Sodium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 949085,
-            "url": "https://helios-files.geekcorner.eu.org/servers/Fabric-Demo-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
-            "MD5": "d7753a50ca37f50abb10465a9a425dac"
-          }
-        },
-        {
-          "id": "generated.library:fabric:api-0.97.2+1.20.4@jar",
-          "name": "fabric",
-          "type": "Library",
-          "artifact": {
-            "size": 2187420,
-            "url": "https://raw.githubusercontent.com/HanSeoki/butter/main/fabric-api-0.97.2+1.20.4.jar",
-            "MD5": "e16ba73c962937a8a11515ecfd47d163"
-          }
-        },
-        {
-          "id": "generated.fabricmod:voicechat:2.5.21@jar",
-          "name": "VoiceChat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 8141022,
-            "url": "https://raw.githubusercontent.com/HanSeoki/butter/main/voicechat-fabric-1.20.4-2.5.21.jar",
-            "MD5": "2733c159c2f7628983a96b442ca3f823"
-          }
         }
       ]
     }
