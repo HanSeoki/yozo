@@ -45,7 +45,7 @@
           "type": "File",
           "artifact": {
             "size": 2107289,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/fabric-api-0.92.2+1.20.1.jar",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/fabric-api-0.92.2+1.20.1.jar",
             "MD5": "92c58961866741106aae126558c9d4a7",
             "path": "mods/fabric-api-0.92.2+1.20.1.jar"
           }
@@ -56,7 +56,7 @@
           "type": "File",
           "artifact": {
             "size": 1387452,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/fabric-loader-0.16.7.jar",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/fabric-loader-0.16.7.jar",
             "MD5": "67fdac9560fdae4c5e89fa62394f5802",
             "path": "mods/fabric-loader-0.16.7.jar"
           }
