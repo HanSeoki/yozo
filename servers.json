@@ -18,28 +18,6 @@
       "autoconnect": true,
       "modules": [
         {
-          "id": "net.fabricmc:fabric-loader:0.15.6",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1387452,
-            "MD5": "67fdac9560fdae4c5e89fa62394f5802",
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/fabric-loader-0.16.7.jar"
-          }
-        },
-        "subModules": [
-            {
-              "id": "1.20.4-fabric-0.16.7",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 4252,
-                "MD5": "2f557365d8f0e43caad2eeb6114bf2ae",
-                "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.json"
-              }
-            }
-          ]
-        {
           "id": "caramelChat-mc1.20.1-fabric-1.1.1.jar",
           "name": "caramelChat-mc1.20.1-fabric-1.1.1.jar",
           "type": "File",
@@ -70,6 +48,28 @@
             "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/fabric-api-0.92.2+1.20.1.jar",
             "MD5": "92c58961866741106aae126558c9d4a7",
             "path": "mods/fabric-api-0.92.2+1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-loader-0.16.7.jar",
+          "name": "fabric-loader-0.16.7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1387452,
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/fabric-loader-0.16.7.jar",
+            "MD5": "67fdac9560fdae4c5e89fa62394f5802",
+            "path": "mods/fabric-loader-0.16.7.jar"
+          }
+        },
+        {
+          "id": "fabric-loader-0.16.7.json",
+          "name": "fabric-loader-0.16.7.json",
+          "type": "File",
+          "artifact": {
+            "size": 4252,
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/fabric-loader-0.16.7.json",
+            "MD5": "2f557365d8f0e43caad2eeb6114bf2ae",
+            "path": "mods/fabric-loader-0.16.7.json"
           }
         },
         {
