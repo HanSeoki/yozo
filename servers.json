@@ -16,7 +16,28 @@
       },
       "mainServer": true,
       "autoconnect": true,
-      
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.7",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387452,
+            "MD5": "67fdac9560fdae4c5e89fa62394f5802",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/fabric-loader-0.16.7.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.16.7",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 4252,
+                "MD5": "2f557365d8f0e43caad2eeb6114bf2ae",
+                "url": "https://maven.fabricmc.net/net/fabricmc/fabric-loader/0.16.7/fabric-loader-0.16.7.json"
+              }
+            }
+          ]
         }
       ]
     }
