@@ -3,16 +3,16 @@
   "rss": "https://raw.githubusercontent.com/HanSeoki/butter/main/news_land.xml",
   "servers": [
     {
-      "id": "Fabric-Demo-1.20.4",
-      "name": "버터마을",
-      "description": "Fabric-Demo Running Minecraft 1.20.4 (Fabric v0.15.6)",
+      "id": "Fabric-Demo-1.20.1",
+      "name": "요뚜기 월드",
+      "description": "Fabric-Demo Running Minecraft 1.20.1 (Fabric v0.16.7)",
       "icon": "https://github.com/HanSeoki/butter/blob/main/butter_icon.png?raw=true",
       "version": "1.0.0",
-      "address": "버터마을.kro.kr",
-      "minecraftVersion": "1.20.4",
+      "address": "yozoh.mcok.kr",
+      "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "Minecraft 1.20.4",
-        "largeImageText": "버터마을 접속중"
+        "shortId": "Minecraft 1.20.1",
+        "largeImageText": "요뚜기월드 접속중"
       },
       "mainServer": true,
       "autoconnect": true,
