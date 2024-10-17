@@ -18,6 +18,16 @@
       "autoconnect": true,
       "modules": [
         {
+          "id": "net.fabricmc:fabric-loader:0.15.6",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387452,
+            "MD5": "67fdac9560fdae4c5e89fa62394f5802",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/fabric-loader-0.16.7.jar"
+          }
+        },
+        {
           "id": "caramelChat-mc1.20.1-fabric-1.1.1.jar",
           "name": "caramelChat-mc1.20.1-fabric-1.1.1.jar",
           "type": "File",
