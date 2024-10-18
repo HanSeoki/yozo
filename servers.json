@@ -110,56 +110,6 @@
           ]
         },
         {
-          "id": "generated.fabricmod:caramelchat:1.1.1@jar",
-          "name": "CaramelChat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 130062,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/caramelChat-mc1.20.1-fabric-1.1.1.jar",
-            "MD5": "7a52a4adae1c669ae869b53dd49ab615"
-          }
-        },
-        {
-          "id": "shcm.shsupercm:citresewn:1.1.5+1.20.1@jar",
-          "name": "CIT Resewn",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 391752,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/citresewn-1.1.5+1.20.1.jar",
-            "MD5": "d0d036a2aeff226687f369269524653d"
-          }
-        },
-        {
-          "id": "mezz.jei:jei:15.20.0.102@jar",
-          "name": "Just Enough Items",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1419583,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/jei-1.20.1-fabric-15.20.0.102.jar",
-            "MD5": "f92738cb76cc82be6dcbaf79bffe5de8"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:5.10.2@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7209178,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/journeymap-1.20.1-5.10.2-fabric.jar",
-            "MD5": "8c157f25896ddf85396d7963064c4a2c"
-          }
-        },
-        {
-          "id": "generated.fabricmod:optifabric:1.14.3@jar",
-          "name": "OptiFabric",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 612786,
-            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/optifabric-1.14.3.jar",
-            "MD5": "c5b73e880ae6c7321a0085167ed38e1d"
-          }
-        },
-        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.8@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
