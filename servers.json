@@ -5,7 +5,7 @@
     {
       "id": "Fabric-Demo-1.20.1",
       "name": "요뚜기월드",
-      "description": "Fabric-Demo Running Minecraft 1.20.4 (Fabric v0.16.7)",
+      "description": "Fabric-Demo Running Minecraft 1.20.1 (Fabric v0.16.7)",
       "icon": "https://github.com/HanSeoki/butter/blob/main/butter_icon.png?raw=true",
       "version": "1.0.0",
       "address": "yozoh.mcok.kr",
@@ -110,6 +110,16 @@
           ]
         },
         {
+          "id": "generated.fabricmod:caramelchat:1.1.1@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 130062,
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/caramelChat-mc1.20.1-fabric-1.1.1.jar",
+            "MD5": "7a52a4adae1c669ae869b53dd49ab615"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.1-2.5.8@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
@@ -123,3 +133,4 @@
     }
   ]
 }
+
