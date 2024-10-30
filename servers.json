@@ -115,7 +115,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 130062,
-            "url": "http://localhost:8080/servers/forge-1.20.1/fabricmods/required/caramelChat-mc1.20.1-fabric-1.1.1.jar",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/caramelChat-mc1.20.1-fabric-1.1.1.jar",
             "MD5": "7a52a4adae1c669ae869b53dd49ab615"
           }
         },
@@ -125,7 +125,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 391752,
-            "url": "http://localhost:8080/servers/forge-1.20.1/fabricmods/required/citresewn-1.1.5+1.20.1.jar",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/citresewn-1.1.5+1.20.1.jar",
             "MD5": "d0d036a2aeff226687f369269524653d"
           }
         },
@@ -135,7 +135,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1419583,
-            "url": "http://localhost:8080/servers/forge-1.20.1/fabricmods/required/jei-1.20.1-fabric-15.20.0.102.jar",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/jei-1.20.1-fabric-15.20.0.102.jar",
             "MD5": "f92738cb76cc82be6dcbaf79bffe5de8"
           }
         },
@@ -145,7 +145,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7209178,
-            "url": "http://localhost:8080/servers/forge-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.2-fabric.jar",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/journeymap-1.20.1-5.10.2-fabric.jar",
             "MD5": "8c157f25896ddf85396d7963064c4a2c"
           }
         },
@@ -155,7 +155,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8059500,
-            "url": "http://localhost:8080/servers/forge-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.8.jar",
+            "url": "https://github.com/HanSeoki/yozo/raw/refs/heads/main/mods/voicechat-fabric-1.20.1-2.5.8.jar",
             "MD5": "a25bd4206ae42e8ce0011d0818000b41"
           }
         }
